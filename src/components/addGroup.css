@@ -1,0 +1,15 @@
+.AddGroupbtn .ant-btn {
+  width: 90%;
+}
+.AddGroupbtn {
+  margin-top: 10vh;
+  display: flex;
+  justify-content: center;
+}
+.AddGroup .ant-input {
+  width: 175px;
+}
+.AddGroup .ant-form-item {
+  display: flex;
+  justify-content: center;
+}
